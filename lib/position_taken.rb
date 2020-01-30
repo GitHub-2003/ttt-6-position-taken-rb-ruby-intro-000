@@ -20,4 +20,4 @@ puts(position_taken(board, index))
 
 board = [nil, " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
-uts(position_taken(board, index))
+puts(position_taken(board, index))

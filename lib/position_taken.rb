@@ -8,4 +8,4 @@ def position_taken(board, index)
 end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
-puts(position_taken(board, index)
+puts(position_taken(board, index))

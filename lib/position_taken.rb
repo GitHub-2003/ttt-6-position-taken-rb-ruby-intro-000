@@ -6,6 +6,10 @@ def position_taken(board, index)
     return true
   end
 end
+board = []
+index = 0
+puts(position_taken(board, index))
+
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 puts(position_taken(board, index))
